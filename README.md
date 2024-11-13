@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, im Nanometer(Known as Fine on discord). I mainly use python
 
 <!--
 **Nanometer2/Nanometer2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
