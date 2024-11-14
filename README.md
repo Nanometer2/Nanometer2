@@ -1,4 +1,4 @@
-## Hi, im Nanometer(Known as Fine on discord). I mainly use python
+## Hi, im Nanometer(Known as Fine on discord). I mainly use python and swift. 
 
 Stats
 
